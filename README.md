@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/allennnnnz/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
