@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/allennnnnz/Leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
