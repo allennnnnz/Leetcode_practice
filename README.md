@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 <!---LeetCode Topics End-->
