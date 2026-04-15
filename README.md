@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/allennnnnz/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/allennnnnz/Leetcode_practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/allennnnnz/Leetcode_practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allennnnnz/Leetcode_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/allennnnnz/Leetcode_practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
