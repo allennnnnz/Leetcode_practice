@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/allennnnnz/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/allennnnnz/Leetcode_practice/tree/master/1518-water-bottles) |
+| [2069-walking-robot-simulation-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
