@@ -1,6 +1,7 @@
 class Solution {
 public:
     int closestTarget(vector<string>& words, string target, int startIndex) {
+        //往左右展開最多也只需要n/2個檢查
         string cur = words[startIndex];
         if(cur==target){
             return 0;
