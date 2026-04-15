@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/allennnnnz/Leetcode_practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/allennnnnz/Leetcode_practice/tree/master/0001-two-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
