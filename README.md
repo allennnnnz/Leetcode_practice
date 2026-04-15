@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/allennnnnz/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/allennnnnz/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/0338-counting-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
