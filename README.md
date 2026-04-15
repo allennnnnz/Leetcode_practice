@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/allennnnnz/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/allennnnnz/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
