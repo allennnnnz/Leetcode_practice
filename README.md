@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3637-trionic-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3637-trionic-array-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
