@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/allennnnnz/Leetcode_practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/allennnnnz/Leetcode_practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/allennnnnz/Leetcode_practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/allennnnnz/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
