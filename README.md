@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/allennnnnz/Leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
