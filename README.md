@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/allennnnnz/Leetcode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/allennnnnz/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
