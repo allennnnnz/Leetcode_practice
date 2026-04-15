@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/allennnnnz/Leetcode_practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allennnnnz/Leetcode_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
