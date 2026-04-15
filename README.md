@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/allennnnnz/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/allennnnnz/Leetcode_practice/tree/master/1025-divisor-game) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
@@ -95,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/allennnnnz/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/allennnnnz/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/allennnnnz/Leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/allennnnnz/Leetcode_practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
