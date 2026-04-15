@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/allennnnnz/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allennnnnz/Leetcode_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/allennnnnz/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/allennnnnz/Leetcode_practice/tree/master/0756-pyramid-transition-matrix) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Brainteaser
 |  |
 | ------- |
