@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allennnnnz/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/allennnnnz/Leetcode_practice/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allennnnnz/Leetcode_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/allennnnnz/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allennnnnz/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/allennnnnz/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/allennnnnz/Leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/allennnnnz/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allennnnnz/Leetcode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
